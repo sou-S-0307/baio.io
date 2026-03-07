@@ -323,8 +323,6 @@ function kaku() {
       }
     }
   }
-  document.getElementById("bx").innerHTML = bx;
-  document.getElementById("by").innerHTML = by;
 }
 
 function zikkou() {
