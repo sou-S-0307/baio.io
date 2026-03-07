@@ -194,7 +194,7 @@ function kaku() {
     }
   }
   ctx.clearRect(0, 0, canvas.width, canvas.height);
-  iii = canvas.width / 2 - (yoko / 2) * l;
+  iii = 4 * l;
   //本体
   for (iy = 0; iy < tate; iy++) {
     for (i = 0; i < yoko; i++) {
